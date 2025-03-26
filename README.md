@@ -88,10 +88,6 @@ my-portfolio/
 │   │   └── LanguageContext.tsx # Language switcher context
 │   ├── hooks/               # Custom React hooks
 │   ├── styles/              # Global styles and themes
-│   ├── utils/               # Utility functions
-│   ├── locales/             # Internationalization files
-│   │   ├── en.json          # English translations
-│   │   └── es.json          # Spanish translations
 │   ├── App.tsx              # Main application component
 │   ├── main.tsx             # Application entry point
 │   └── types.ts             # TypeScript type definitions
