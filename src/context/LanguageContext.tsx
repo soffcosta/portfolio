@@ -37,7 +37,7 @@ export const translations: Translations = {
     "home.role": "Graphic Designer & Community Manager",
     "home.description":
       "Creating visual stories and building digital communities for brands.",
-    "home.download": "Download Portfolio",
+    "home.download": "Download resume",
 
     // About
     "about.title": "About Me",
@@ -146,7 +146,7 @@ export const translations: Translations = {
     "home.role": "Diseñadora Gráfica y Community Manager",
     "home.description":
       "Creando historias visuales y construyendo comunidades digitales para marcas.",
-    "home.download": "Descargar Portfolio",
+    "home.download": "Descargar CV",
 
     // About
     "about.title": "Sobre Mí",
