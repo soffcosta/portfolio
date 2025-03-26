@@ -67,3 +67,50 @@ A modern, responsive portfolio website showcasing Sofia Costacaro's work as a Gr
    Navigate to `http://localhost:5173/` to see the website in action.
 
 ## 📁 Project Structure
+
+```
+my-portfolio/
+├── public/                  # Public assets
+│   ├── images/              # Project images and icons
+│   └── favicon.ico          # Site favicon
+├── src/                     # Source code
+│   ├── components/          # Reusable UI components
+│   │   ├── Header/          # Site header and navigation
+│   │   ├── Footer/          # Site footer
+│   │   ├── ProjectCard/     # Project display component
+│   │   └── ...              # Other components
+│   ├── pages/               # Page components
+│   │   ├── Home/            # Home page
+│   │   ├── About/           # About page
+│   │   ├── Projects/        # Projects gallery page
+│   │   └── ...              # Other pages
+│   ├── context/             # React context providers
+│   │   └── LanguageContext.tsx # Language switcher context
+│   ├── hooks/               # Custom React hooks
+│   ├── styles/              # Global styles and themes
+│   ├── utils/               # Utility functions
+│   ├── locales/             # Internationalization files
+│   │   ├── en.json          # English translations
+│   │   └── es.json          # Spanish translations
+│   ├── App.tsx              # Main application component
+│   ├── main.tsx             # Application entry point
+│   └── types.ts             # TypeScript type definitions
+├── .gitignore               # Git ignore file
+├── tsconfig.json            # TypeScript configuration
+├── package.json             # Project dependencies and scripts
+├── vite.config.ts           # Vite configuration
+└── README.md                # Project documentation
+```
+
+## 🔧 Customization
+
+To customize this portfolio for your own use:
+
+1. Update the personal information in the translation files
+2. Replace project images and descriptions
+3. Modify the color scheme in the theme configuration
+4. Add your own sections as needed
+
+## 📜 License
+
+This project is licensed under the MIT License.
