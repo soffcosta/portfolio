@@ -25,7 +25,12 @@ const Home = () => {
         <Paragraph className="description">{t("home.description")}</Paragraph>
 
         <Space size="middle" className="action-buttons">
-          <Button type="primary" size="large" icon={<DownloadOutlined />}>
+          <Button
+            type="primary"
+            size="large"
+            icon={<DownloadOutlined />}
+            href="https://www.dropbox.com/scl/fi/4gacn0vjqy4ntb6wqwbxg/cv.pdf?rlkey=yt1a9kcyu82vdm4bikixmugif&st=o0cd1unm&dl=1"
+          >
             {t("home.download")}
           </Button>
           <div className="social-links">
