@@ -32,29 +32,33 @@ A modern, responsive portfolio website showcasing Sofia Costacaro's work as a Gr
 - **Experience**: Professional work experience
 - **Education**: Academic background
 
+## 🔗 Connect
+
+- **LinkedIn**: [Sofia Costacaro - Graphic Designer](https://www.linkedin.com/in/sof%C3%ADa-costacaro-graphic-designer/)
+
 ## 🛠️ Installation and Setup
 
 1. **Clone the repository**
 
-   ```
+   ```markdown
    git clone https://github.com/yourusername/my-portfolio.git
    ```
 
 2. **Navigate to the project directory**
 
-   ```
+   ```markdown
    cd my-portfolio
    ```
 
 3. **Install dependencies**
 
-   ```
+   ```markdown
    npm install
    ```
 
 4. **Start the development server**
 
-   ```
+   ```markdown
    npm run dev
    ```
 

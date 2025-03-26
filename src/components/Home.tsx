@@ -3,7 +3,6 @@ import {
   DownloadOutlined,
   LinkedinOutlined,
   InstagramOutlined,
-  BehanceOutlined,
 } from "@ant-design/icons";
 import "../styles/Home.css";
 import { useLanguage } from "../context/LanguageContext";
@@ -34,7 +33,7 @@ const Home = () => {
               type="text"
               icon={<LinkedinOutlined />}
               size="large"
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/sof%C3%ADa-costacaro-graphic-designer/"
               target="_blank"
             />
             <Button
@@ -42,13 +41,6 @@ const Home = () => {
               icon={<InstagramOutlined />}
               size="large"
               href="https://www.instagram.com/sc_portfolio_/"
-              target="_blank"
-            />
-            <Button
-              type="text"
-              icon={<BehanceOutlined />}
-              size="large"
-              href="https://behance.net"
               target="_blank"
             />
           </div>
