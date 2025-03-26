@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website showcasing Sofia Costacaro's work as a Graphic Designer and Community Manager.
 
-![Portfolio Screenshot](public/portfolio-screenshot.png)
+![Portfolio screenshot](image.png)
 
 ## 🚀 Features
 
